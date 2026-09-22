@@ -1,0 +1,6 @@
+{
+  "name": "VenueFlow",
+  "description": "Plan the place. Create the moment. Premium event-planning workspace combining venue discovery, visual space planning, and connected event management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
